@@ -29,8 +29,3 @@ $ ansible all --list-hosts -i hosts.ini
 ```sh
 $ ansible all -i hosts.ini -m ping --ask-pass
 ```
-
-код вставки картинки
-<p align="left">
-  <img src="./image-2.jpg" height="80" title="image_from_dockerhub">
-</p>
